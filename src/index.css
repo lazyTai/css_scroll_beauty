@@ -1,0 +1,7 @@
+.scrollDiv {
+    width: 18px;
+    position: absolute;
+    top: 0;
+    background: #666;
+    border-radius: 10px;
+}
