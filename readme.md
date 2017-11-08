@@ -1,6 +1,10 @@
 # css scroll beauty
 
+css
 https://lazytai.github.io/css_scroll_beauty/
+
+js
+https://lazytai.github.io/css_scroll_beauty/demo/
 
 # how to use
 ```
